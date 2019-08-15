@@ -2,4 +2,4 @@
 
 A ajouter :
 
-- gestion des espaces
+- Gestion des espaces
