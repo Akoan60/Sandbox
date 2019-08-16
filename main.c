@@ -10,6 +10,18 @@ char target[100][100];
 
 int main(int argc, char* argv())
 {
+	//Mexican wave
+	//Each letter is successively capitalized to make a wave effect
+	//Ex: "This is a wave" should give
+	//		This is a wave
+	//		tHis is a wave
+	//		thIs is a wave
+	//		thiS is a wave
+	//		this Is a wave
+	//		this iS a wave
+	//		this is A wave
+	//		this is a Wave
+	//		... so on
 	int j = 0;
 
 	for (int i = 0; i < strlen(sample); i++)
