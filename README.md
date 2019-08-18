@@ -2,4 +2,4 @@
 
 A ajouter :
 
-- Gestion des espaces
+- Gestion des espaces dans la chaine de caracteres traité
